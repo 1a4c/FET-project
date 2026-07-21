@@ -1,0 +1,7 @@
+抽象代碼語法	                     FET 應用領域	                     關鍵元件技術	                       物理機制 / 功能
+PLC_triggered / junction_mode	    數位邏輯	                     CMOS Logic / FinFET             截止/飽和區切換，實現數位 0 與 1 開關
+bi_carbon_texture	               碳基奈米電子	                 CNT-FET / 石墨烯 FET	           超高載子遷移率（μ），實現高速低耗能傳輸
+cv2_scanned.feedback	          CMOS 影像感測器	              CIS Active Pixel Sensor	         光電導轉換與像素內訊號放大 / 復位
+neuron_zone.drag_enabled        	類神經形態運算	               FeFET / 突觸電晶體	             閘極鐵電極化/電荷捕獲，模擬記憶權重（Weight）
+intermittence_set()	               功率管理                     (PMIC)	GaN HEMT / Power MOSFET	 極低關斷漏電流（Ileak），支援能量擷取待機
+
